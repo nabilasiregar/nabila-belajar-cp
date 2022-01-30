@@ -1,0 +1,10 @@
+**/.DS_Store
+**/.env
+**/report/*
+**/node_modules/*
+**/.byebug_history
+**/app
+.vscode
+Web/bin
+.bundle
+Gemfile.local
