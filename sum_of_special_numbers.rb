@@ -1,7 +1,3 @@
-# Sum of special numbers
-# Write a program that will accept input K of type integer. The program will print sum of all numbers
-# from which are from 2 to K excluding prime numbers and numbers which are divisible by 6
-
 def checkNumber(number)
   sum = []
  for i in 2..number
@@ -25,5 +21,3 @@ def is_divisible_by_six(num)
   return true if num % 6 == 0
   false
 end
-
-p checkNumber(12)
