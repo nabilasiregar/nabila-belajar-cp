@@ -3,7 +3,6 @@ def checkNumber(number)
  for i in 2..number
     if is_prime(i) == false && is_divisible_by_six(i) == false
       sum << i
-      puts i
     end
   end
   result = sum.map(&:to_i).reduce(0, :+)
