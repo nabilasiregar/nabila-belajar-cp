@@ -1,2 +1,2 @@
 <p align="center">Solutions to problems on HackerRank and other competitive programming exercises I have come across.</p>
-<img src="https://img.shields.io/badge/Languange-Ruby%2FJS%2FPython-brightgreen">
+<p align="center"><img src="https://img.shields.io/badge/Languange-Ruby%2FJS%2FPython-brightgreen"></p>
